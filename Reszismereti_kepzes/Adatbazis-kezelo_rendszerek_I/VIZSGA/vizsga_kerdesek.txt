@@ -1,0 +1,10 @@
+[ADAT1] A mai vizsga
+
+Sziasztok!
+
+négy oldal volt a történet.
+Első oldal elmélet, definíciók: adatbázis séma, 2.NF, alternáló kulcs, OLTP VS OLAP.
+második oldal: valami könyves DB, táblák fel voltak rajzolva, abból kellett három lekérdezés, nekünk csak SQL-ben.
+
+Harmadik oldal: ER adatmodell átalakítás.
+negyedik oldal: adott reláció, megvoltak a függőségek, azt kellett 3.NF-ba áthekkelni, lépésenként.

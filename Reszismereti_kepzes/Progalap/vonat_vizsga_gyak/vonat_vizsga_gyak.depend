@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545349429 source:d:\pe-mik\reszismereti_kepzes\progalap\vonat_vizsga_gyak\main.c
+	<stdio.h>
+	<stdlib.h>
+
